@@ -46,7 +46,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="380" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanas2k4&theme=radical&hide_border=true" width="380" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Tanas2k4&theme=radical&hide_border=true" width="380" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
