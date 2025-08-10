@@ -1,4 +1,5 @@
 <h1 align="center">✨ TRẦN TRỌNG TẤN ✨</h1>
+ <h3 align="center">✉: tt.tan25204@gmail.com</h3>
 <div align="center">
   <h3>"Bane of Bugs"</h3>
   <p>
