@@ -62,13 +62,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanas2k4&theme=radical&hide_border=true" width="100%" alt="Contribution Graph"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider Decade WebP" style="width: 100%; height: auto; border-radius: 10px;" />
 </p>
