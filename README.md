@@ -1,7 +1,6 @@
-<h1 align="center">✨ TRẦN TRỌNG TẤN ✨</h1>
+<h1 align="center"> TRẦN TRỌNG TẤN </h1>
  <h3 align="center">✉: tt.tan25204@gmail.com</h3>
 <div align="center">
-  <h3>"Bane of Bugs"</h3>
   <p>
     <em>"Thank you for taking the time to visit my GitHub page."</em>
   </p>
@@ -9,19 +8,7 @@
 
 ---
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://www.facebook.com/tran.tan.677008/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/tanas._.34hz">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -38,9 +25,8 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-<!-- 2x2 grid để các cards luôn cân đối -->
 <table align="center">
   <tr>
     <td align="center">
