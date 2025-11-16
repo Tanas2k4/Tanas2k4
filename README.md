@@ -52,7 +52,4 @@
   <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider Decade WebP" style="width: 100%; height: auto; border-radius: 10px;" />
 </p>
 
----
-<p align="center">
-  <sub>⚡ May the bugs fear your presence ⚡</sub>
-</p>
+
