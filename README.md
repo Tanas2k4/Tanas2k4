@@ -22,11 +22,12 @@ I enjoy solving real-world problems through clean, maintainable code.
 </p>
 
 **Fun Facts:**
-- Kamen Rider fan (especially Decade)
-- Love building things — both code and in real life
-- Hobbies: anime, gym, learning new tech
-- Always open to interesting projects or collaboration
+- Garo and Rider fan...Decadeeeeee
+- Codes to cope with stress and uncertainty.
+- Prefers raw, hands-on coding and anti 'vibe-coding'.
+- Occasionally play a few soccer matches, draw pictures, or just watch a movie
+- Driven to launch a technology product startup before turning 30
 
 <p align="center">
-  <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider" width="100%" style="max-width: 100%; height: auto;"/>
+  <img src="[https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk4bXQ1cWQ2MWpkcDlhdHZnMHZqNXVmdnd0ejZlZTQ1YTU5ODNkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4XCiP2zdJrTfjF8WBJ/giphy.gif)" alt="Kamen Rider" width="100%" style="max-width: 100%; height: auto;"/>
 </p>
