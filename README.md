@@ -1,11 +1,13 @@
 # Hey there! 👋
 
-I'm **[Trần Trọng Tấn](https://tanas2k4.github.io/Portfolio/)**, a SOFTWARE ENGINEERING student focusing on **[.NET Core](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=c%23&sort=stargazers)** and **[Spring Boot](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=java&sort=stargazers)**.
+I'm **[Trần Trọng Tấn](https://tanas2k4.github.io/Portfolio/)** - a SOFTWARE ENGINEERING student focusing on **[.NET Core](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=c%23&sort=stargazers)** and **[Spring Boot](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=java&sort=stargazers)**.
 
 I build backend systems, APIs, and occasionally dip into frontend with modern tools.
 
 My current tech stack includes .NET, ASP.NET Core, C#, Spring Boot, Java, Ruby, JavaScript, TypeScript, React, and Tailwind CSS.
 I enjoy solving real-world problems through clean, maintainable code.
+
+You can contact me - [tt.tan25204@gmail.com](mailto:tt.tan25204@gmail.com)
 
 ### Technologies
 <p align="left">
