@@ -24,7 +24,7 @@ You can contact me - [tt.tan25204@gmail.com](mailto:tt.tan25204@gmail.com)
 </p>
 
 **Fun Facts:**
-- Garo and Rider fan...<span style="color:pink">Deeeeecade</span>
+- Garo and Rider fan... <span style="color:#ff69b4">Deeeeecade</span>
 - Codes to cope with stress and uncertainty.
 - Prefers raw, hands-on coding and anti 'vibe-coding'.
 - Occasionally play a few soccer matches, draw pictures, or just watch a movie
