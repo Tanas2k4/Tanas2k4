@@ -1,8 +1,8 @@
 <h1 align="center">Trần Trọng Tấn</h1>
 
 <p align="center">
-  .NET Core & Spring Boot Developer<br><br>
-  ✉️ <a href="mailto:tt.tan25204@gmail.com">tt.tan25204@gmail.com</a><br><br>
+  Focus .NET Core & Spring Boot<br><br>
+  Contact: <a href="mailto:tt.tan25204@gmail.com">tt.tan25204@gmail.com</a><br><br>
   <em>Thank you for visiting my GitHub profile.</em>
 </p>
 
@@ -21,5 +21,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider" width="600"/>
+  <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider" width="100%" style="max-width: 100%; height: auto;"/>
 </p>
