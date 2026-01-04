@@ -1,9 +1,12 @@
 # Hey there! 👋
 
 I'm **[Trần Trọng Tấn](https://tanas2k4.github.io/Portfolio/)**, a SOFTWARE ENGINEERING student focusing on **[.NET Core](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=c%23&sort=stargazers)** and **[Spring Boot](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=java&sort=stargazers)**.
+
 I build backend systems, APIs, and occasionally dip into frontend with modern tools.
+
 My current tech stack includes .NET, ASP.NET Core, C#, Spring Boot, Java, Ruby, JavaScript, TypeScript, React, and Tailwind CSS.
 I enjoy solving real-world problems through clean, maintainable code.
+
 ### Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
@@ -17,11 +20,13 @@ I enjoy solving real-world problems through clean, maintainable code.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
+
 **Fun Facts:**
 - Kamen Rider fan (especially Decade)
 - Love building things — both code and in real life
 - Hobbies: anime, gym, learning new tech
 - Always open to interesting projects or collaboration
+
 <p align="center">
   <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider" width="100%" style="max-width: 100%; height: auto;"/>
 </p>
