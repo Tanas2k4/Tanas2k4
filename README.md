@@ -1,55 +1,43 @@
-<h1 align="center"> TRẦN TRỌNG TẤN </h1>
- <h3 align="center">✉: tt.tan25204@gmail.com</h3>
-<div align="center">
-  <p>
-    <em>"Thank you for taking the time to visit my GitHub page."</em>
-  </p>
-</div>
+<h1 align="center">Trần Trọng Tấn</h1>
 
----
-
-##  Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <strong>.NET Core & Spring Boot Developer</strong>
+</p>
+
+<p align="center">
+  ✉️ <a href="mailto:tt.tan25204@gmail.com">tt.tan25204@gmail.com</a>
+</p>
+
+<p align="center">
+  <em>Thank you for visiting my GitHub profile.</em>
 </p>
 
 ---
 
-##  GitHub Stats
+### Technologies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=radical&hide_border=true&include_all_commits=true&count_private=false" width="380" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Tanas2k4&theme=radical&hide_border=true" width="380" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Tanas2k4&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="380" alt="GitHub Trophies" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanas2k4&theme=radical&hide_border=true&layout=compact" width="380" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%-23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanas2k4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanas2k4&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Tanas2k4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider Decade WebP" style="width: 100%; height: auto; border-radius: 10px;" />
+  <img src="https://i.giphy.com/0i3EDBmPzqeuB1uMZz.webp" alt="Kamen Rider" width="600"/>
 </p>
-
-
