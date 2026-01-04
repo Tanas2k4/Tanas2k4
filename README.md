@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **[Trần Trọng Tấn](https://tanas2k4.github.io/Portfolio/)** - a SOFTWARE ENGINEERING student focusing on **[.NET Core](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=c%23&sort=stargazers)** and **[Spring Boot](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=java&sort=stargazers)**.
+I'm **[Trần Trọng Tấn](https://tanas2k4.github.io/Portfolio/)** , final-year Software Engineering student. focusing on **[.NET Core](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=c%23&sort=stargazers)** and **[Spring Boot](https://github.com/Tanas2k4?tab=repositories&q=&type=&language=java&sort=stargazers)**.
 
 I build backend systems, APIs, and occasionally dip into frontend with modern tools.
 
@@ -24,7 +24,7 @@ You can contact me - [tt.tan25204@gmail.com](mailto:tt.tan25204@gmail.com)
 </p>
 
 **Fun Facts:**
-- Garo and Rider fan...Decadeeeeee
+- Garo and Rider fan...<span style="color:pink">Deeeeecade</span>
 - Codes to cope with stress and uncertainty.
 - Prefers raw, hands-on coding and anti 'vibe-coding'.
 - Occasionally play a few soccer matches, draw pictures, or just watch a movie
